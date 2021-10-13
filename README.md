@@ -4,7 +4,7 @@ Repo created for the purpose of basic programming practice for beginners. Progra
 
 <img src = "https://i.pinimg.com/originals/b6/d9/e4/b6d9e4bb3642d036a207f7a83b2f9128.jpg" width=100%>
 
-Repo also participating in Hacktoberfest 2k21
+Repo also participating in Hacktoberfest 2k21. For the purpose maximum  4 PR's would be accepted from a single userid.
 
 <img src="https://user-images.githubusercontent.com/55616388/135486681-adf5d5e7-d03c-4352-8e0c-d33ca1bee931.jpg">
 
