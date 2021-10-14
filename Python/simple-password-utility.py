@@ -1,3 +1,4 @@
+# hacktoberfest 2021
 import string
 from random import *
 characters = string.ascii_letters + string.punctuation  + string.digits
