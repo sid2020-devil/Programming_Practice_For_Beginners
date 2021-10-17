@@ -16,9 +16,6 @@ Fork this repo and create pull requests. Genuine ones would be accepted.
 #### Will all PR's  be accepted?
 Depends  on the quality of PR
 
-#### LICENSE 
-MIT 
-
 #### CONTACT
 
 Sidharth S Unnithan - Linkedin  - https://www.linkedin.com/in/sid2020/
