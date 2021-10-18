@@ -4,6 +4,6 @@ int main()
 	int pid;
 	pid=getpid();
 	printf("process ID is %d\n",pid);
-	pid=getppid();
+	pid=getpid();
 	printf("parent process ID id %d\n",pid);
 }
