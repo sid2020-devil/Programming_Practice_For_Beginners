@@ -1,3 +1,4 @@
+import math
 def addition ():
     print("Addition")
     n = float(input("Enter the number: "))
@@ -34,6 +35,9 @@ while True:
     print(" Enter 's' for substraction")
     print(" Enter 'm' for multiplication")
     print(" Enter 'q' for quit")
+    print(" Enter 'si' for sin function")
+    print(" Enter 't' for tan function")
+    print(" Enter 'c' for cos function")
     c = input(" ")
     if c != 'q':
         if c == 'a':
@@ -48,6 +52,16 @@ while True:
         elif c == 'v':
             list = average()
             print("Ans = ", list[0], " total inputs ",list[1])
+        elif c == 'si':
+            x = int(input("> Enter your number here: "))
+            print(math.sin(x))
+        elif c == 'c':
+            x = int(input("> Enter your number here: "))
+            print(math.cos(x))
+        elif c == 't':
+            x = int(input("> Enter your number here: "))
+            print(math.tan(x))
+        
         else:
             print ("Sorry, invilid character")
     else:
